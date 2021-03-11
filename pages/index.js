@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Gian</title>
+        <title>Routine-Tracker</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Gian</a>
+          Welcome to <a href="https://nextjs.org">Routine Tracker</a>
         </h1>
 
         
